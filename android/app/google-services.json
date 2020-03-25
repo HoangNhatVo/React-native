@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1076015275246",
+    "firebase_url": "https://vls-fd84f.firebaseio.com",
+    "project_id": "vls-fd84f",
+    "storage_bucket": "vls-fd84f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076015275246:android:7e0d902c7740931e43a7ff",
+        "android_client_info": {
+          "package_name": "com.vls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076015275246-tiubch5l5r8r0uqg4lrvucbceau4u1al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTwYnHusH1TXZMqi_selEfYPyjcLE0HQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076015275246-tiubch5l5r8r0uqg4lrvucbceau4u1al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
